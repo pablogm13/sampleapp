@@ -3,3 +3,4 @@
 This is the sample application for
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by Oavki
+heroku gentle-beyond-2845
